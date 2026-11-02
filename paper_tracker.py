@@ -2,7 +2,7 @@ import uuid
 import requests
 
 # यहाँ आपका Google Apps Script का Webhook URL आएगा
-SHEET_WEBHOOK_URL = "YOUR_APPS_SCRIPT_WEBHOOK_URL_HERE"
+SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbxiJpRJAuNej8Z2OJOVDALYl_kbcMOONjJY13XnSS0ysD2QBJZC8UCkM8fg4JqutZ7D6A/exec"
 
 ACTIVE_TRADES = {}
 
